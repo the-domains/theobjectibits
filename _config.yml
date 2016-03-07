@@ -1,0 +1,28 @@
+name: TheObjectiBits
+favicon: null
+layout_spectrum: 0.25496123102493584
+typography_spectrum: 0.1333441324532032
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4339201401453465
+  lightness: 0.9510748889297247
+  saturation: 0.9328816507477313
+  rhythmicContrast: 0.7190402434207499
+purpose: []
