@@ -1,7 +1,7 @@
 name: TheObjectiBits
 favicon: null
-layout_spectrum: 0.25496123102493584
-typography_spectrum: 0.1333441324532032
+layout_spectrum: 0.03881
+typography_spectrum: 0.34057
 title: The ObjectiBits
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4339201401453465
+    - '#8b9aad'
+    - '#00000e'
+    - '#29343f'
+    - '#646464'
+    - '#d7b578'
+  brandStrength: 0.4375
   lightness: 0.9510748889297247
   saturation: 0.9328816507477313
   rhythmicContrast: 0.7190402434207499
